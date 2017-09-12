@@ -76,19 +76,34 @@ This makes Matt’s statement about going back in time and eradicating the idea 
 </li>
 <li id="fn8">Marin, E., Singelée, Garcia, F., Chothia, T., Willems, R. and Preneel, B. (2016)  On the (in)security of the Latest Generation Implantable, Cardiac Defibrillators and How to Secure Them, ACSAC '16 Proceedings of the 32nd Annual Conference on Computer Security Applications, P226-236<a href="#fnref8">↩</a>
 </li>
-9.	https://www.wired.com/2017/04/ubers-former-top-hacker-securing-autonomous-cars-really-hard-problem/
-10.	https://www.theguardian.com/technology/2017/feb/28/cloudpets-data-breach-leaks-details-of-500000-children-and-adults
-11.	https://cloudpets.zendesk.com/hc/en-us/articles/115003696948-CloudPets-Data-Breach-FAQs 
-12.	https://www.theguardian.com/commentisfree/2017/apr/19/facebook-cleveland-killing-media-host-legal-protections
-13.	https://www.theguardian.com/world/2016/sep/19/waste-not-want-not-sweden-tax-breaks-repairs
-14.	http://productresearch.dundee.ac.uk/?p=1664
-15.	Standage, T. (2014) The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century’s On-Line Pioneers, 2nd edition, Bloomsbury. 
-16.	https://about.me/geminiimatt
-17.	https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016
-18.	https://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper
-19.	https://www.theguardian.com/media/2017/mar/07/wikileaks-publishes-biggest-ever-leak-of-secret-cia-documents-hacking-surveillance and https://www.theguardian.com/technology/2017/mar/08/wikileaks-vault-7-cia-documents-hacked-what-you-need-to-know
-20.	http://blog.safecast.org/
-21.	https://smartcitizen.me/
-22.	https://publiclab.org/
-23.	http://thegoodhome.org/
+<li id="fn9">https://www.wired.com/2017/04/ubers-former-top-hacker-securing-autonomous-cars-really-hard-problem/<a href="#fnref9">↩</a>
+</li>
+<li id="fn10">https://www.theguardian.com/technology/2017/feb/28/cloudpets-data-breach-leaks-details-of-500000-children-and-adults<a href="#fnref10">↩</a>
+</li>
+<li id="fn11">https://cloudpets.zendesk.com/hc/en-us/articles/115003696948-CloudPets-Data-Breach-FAQs<a href="#fnref11">↩</a>
+</li>
+<li id="fn12">https://www.theguardian.com/commentisfree/2017/apr/19/facebook-cleveland-killing-media-host-legal-protections<a href="#fnref12">↩</a>
+</li>
+<li id="fn13">https://www.theguardian.com/world/2016/sep/19/waste-not-want-not-sweden-tax-breaks-repairs<a href="#fnref13">↩</a>
+</li>
+<li id="fn14">http://productresearch.dundee.ac.uk/?p=1664<a href="#fnref14">↩</a>
+</li>
+<li id="fn15">Standage, T. (2014) The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century’s On-Line Pioneers, 2nd edition, Bloomsbury.<a href="#fnref14">↩</a>
+</li> 
+<li id="fn16">https://about.me/geminiimatt<a href="#fnref16">↩</a>
+</li> 
+<li id="fn17">https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016<a href="#fnref17">↩</a>
+</li> 
+<li id="fn18">https://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper<a href="#fnref18">↩</a>
+</li> 
+<li id="fn19">https://www.theguardian.com/media/2017/mar/07/wikileaks-publishes-biggest-ever-leak-of-secret-cia-documents-hacking-surveillance and https://www.theguardian.com/technology/2017/mar/08/wikileaks-vault-7-cia-documents-hacked-what-you-need-to-know<a href="#fnref19">↩</a>
+</li> 
+<li id="fn20">http://blog.safecast.org/<a href="#fnref20">↩</a>
+</li> 
+<li id="fn21">https://smartcitizen.me/<a href="#fnref21">↩</a>
+</li> 
+<li id="fn22">https://publiclab.org/<a href="#fnref22">↩</a>
+</li> 
+<li id="fn23">http://thegoodhome.org/<a href="#fnref23">↩</a>
+</li> 
 
