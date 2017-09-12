@@ -88,7 +88,7 @@ This makes Matt’s statement about going back in time and eradicating the idea 
 </li>
 <li id="fn14">http://productresearch.dundee.ac.uk/?p=1664<a href="#fnref14">↩</a>
 </li>
-<li id="fn15">Standage, T. (2014) _The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century’s On-Line Pioneers_, 2nd edition, Bloomsbury.<a href="#fnref14">↩</a>
+<li id="fn15">Standage, T. (2014) The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century’s On-Line Pioneers, 2nd edition, Bloomsbury.<a href="#fnref14">↩</a>
 </li> 
 <li id="fn16">https://about.me/geminiimatt<a href="#fnref16">↩</a>
 </li> 
