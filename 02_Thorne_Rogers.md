@@ -62,13 +62,20 @@ This makes Matt’s statement about going back in time and eradicating the idea 
 <ol>
 <li id="fn1">http://www.gartner.com/technology/research/top-10-technology-trends/<a href="#fnref1">↩</a>
 </li>
-2.	https://www2.deloitte.com/us/en/pages/technology/articles/technology-consulting-tech-trends-collection.html
-3.	http://www.mckinsey.com/industries/high-tech/our-insights/ten-it-enabled-business-trends-for-the-decade-ahead
-4.	http://www.bbc.com/news/technology-39589233
-5.	https://www.theguardian.com/technology/2017/jan/22/home-battleground-amazon-google-voice-technology
-6.	https://www.theguardian.com/technology/2016/dec/28/amazon-refuses-to-let-police-access-suspects-echo-recordings
-7.	https://www.theguardian.com/technology/2017/mar/07/murder-james-bates-defendant-echo-recordings-amazon
-8.	Marin, E., Singelée, Garcia, F., Chothia, T., Willems, R. and Preneel, B. (2016)  On the (in)security of the Latest Generation Implantable, Cardiac Defibrillators and How to Secure Them, ACSAC '16 Proceedings of the 32nd Annual Conference on Computer Security Applications, P226-236 
+<li id="fn2">https://www2.deloitte.com/us/en/pages/technology/articles/technology-consulting-tech-trends-collection.html<a href="#fnref1">↩</a>
+</li>
+<li id="fn3">http://www.mckinsey.com/industries/high-tech/our-insights/ten-it-enabled-business-trends-for-the-decade-ahead<a href="#fnref3">↩</a>
+</li>
+<li id="fn4">http://www.bbc.com/news/technology-39589233<a href="#fnref4">↩</a>
+</li>
+<li id="fn5">https://www.theguardian.com/technology/2017/jan/22/home-battleground-amazon-google-voice-technology<a href="#fnref5">↩</a>
+</li>
+<li id="fn6">https://www.theguardian.com/technology/2016/dec/28/amazon-refuses-to-let-police-access-suspects-echo-recordings<a href="#fnref6">↩</a>
+</li>
+<li id="fn7">https://www.theguardian.com/technology/2017/mar/07/murder-james-bates-defendant-echo-recordings-amazon<a href="#fnref7">↩</a>
+</li>
+<li id="fn8">Marin, E., Singelée, Garcia, F., Chothia, T., Willems, R. and Preneel, B. (2016)  On the (in)security of the Latest Generation Implantable, Cardiac Defibrillators and How to Secure Them, ACSAC '16 Proceedings of the 32nd Annual Conference on Computer Security Applications, P226-236<a href="#fnref8">↩</a>
+</li>
 9.	https://www.wired.com/2017/04/ubers-former-top-hacker-securing-autonomous-cars-really-hard-problem/
 10.	https://www.theguardian.com/technology/2017/feb/28/cloudpets-data-breach-leaks-details-of-500000-children-and-adults
 11.	https://cloudpets.zendesk.com/hc/en-us/articles/115003696948-CloudPets-Data-Breach-FAQs 
@@ -79,10 +86,9 @@ This makes Matt’s statement about going back in time and eradicating the idea 
 16.	https://about.me/geminiimatt
 17.	https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016
 18.	https://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper
-19.	https://www.theguardian.com/media/2017/mar/07/wikileaks-publishes-biggest-ever-leak-of-secret-cia-documents-hacking-surveillance
-20.	https://www.theguardian.com/technology/2017/mar/08/wikileaks-vault-7-cia-documents-hacked-what-you-need-to-know
-21.	http://blog.safecast.org/
-22.	https://smartcitizen.me/
-23.	https://publiclab.org/
-24.	http://thegoodhome.org/
+19.	https://www.theguardian.com/media/2017/mar/07/wikileaks-publishes-biggest-ever-leak-of-secret-cia-documents-hacking-surveillance and https://www.theguardian.com/technology/2017/mar/08/wikileaks-vault-7-cia-documents-hacked-what-you-need-to-know
+20.	http://blog.safecast.org/
+21.	https://smartcitizen.me/
+22.	https://publiclab.org/
+23.	http://thegoodhome.org/
 
