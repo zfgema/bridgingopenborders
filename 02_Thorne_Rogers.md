@@ -74,7 +74,7 @@ This makes Matt’s statement about going back in time and eradicating the idea 
 </li>
 <li id="fn7">https://www.theguardian.com/technology/2017/mar/07/murder-james-bates-defendant-echo-recordings-amazon<a href="#fnref7">↩</a>
 </li>
-<li id="fn8">Marin, E., Singelée, Garcia, F., Chothia, T., Willems, R. and Preneel, B. (2016)  On the (in)security of the Latest Generation Implantable, Cardiac Defibrillators and How to Secure Them, ACSAC '16 Proceedings of the 32nd Annual Conference on Computer Security Applications, P226-236<a href="#fnref8">↩</a>
+<li id="fn8">Marin, E., Singelée, Garcia, F., Chothia, T., Willems, R. and Preneel, B. (2016)  <i>On the (in)security of the Latest Generation Implantable, Cardiac Defibrillators and How to Secure Them</i>, ACSAC '16 Proceedings of the 32nd Annual Conference on Computer Security Applications, P226-236<a href="#fnref8">↩</a>
 </li>
 <li id="fn9">https://www.wired.com/2017/04/ubers-former-top-hacker-securing-autonomous-cars-really-hard-problem/<a href="#fnref9">↩</a>
 </li>
@@ -88,7 +88,7 @@ This makes Matt’s statement about going back in time and eradicating the idea 
 </li>
 <li id="fn14">http://productresearch.dundee.ac.uk/?p=1664<a href="#fnref14">↩</a>
 </li>
-<li id="fn15">Standage, T. (2014) The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century’s On-Line Pioneers, 2nd edition, Bloomsbury.<a href="#fnref14">↩</a>
+<li id="fn15">Standage, T. (2014) <i>The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century’s On-Line Pioneers</i>, 2nd edition, Bloomsbury.<a href="#fnref14">↩</a>
 </li> 
 <li id="fn16">https://about.me/geminiimatt<a href="#fnref16">↩</a>
 </li> 
