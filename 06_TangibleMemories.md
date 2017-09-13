@@ -1,3 +1,8 @@
+---
+title: Tangible Memories
+layout: default
+---
+
 # Tangible Memories: Parlours of Wonder
 ### ‘Care-ful’ co-tinkering for elder care
 
