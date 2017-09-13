@@ -1,4 +1,7 @@
-
+---
+title: Vocabulary of Plants
+layout: default
+---
 # Vocabulary of Plants and other activities  or my take on human (de)centred environmental data
 
 #### Kasia Molga
