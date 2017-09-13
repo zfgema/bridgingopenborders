@@ -10,11 +10,11 @@ The smart city has the potential to enable different modes of citizenship or gov
 **_Hacking the smart city…._**
 If we are to create, inhabit and change cities through technologies then we need to be doing it better and involving more people. The first point of call should be our kids. They are the generation who have grown up with the internet and have built amazing cities in minecraft, run through the streets searching for Pokestops in AR Pokemon Go and learnt how to code in Scratch at school. We need to find more and better ways for them to hack the smart city. To do this we propose that cities need to be able to talk back to us, to allow us to play with them and to enable our kids to make choices. They will Hack the City.
 
-_**What are we doing?_**
+**_What are we doing?_**
 At DDW 2017 we will run a workshop aimed at kids with their families. We will explore how simple code can connect us with everyday things in the city. The fun, hands-on learning experience will use some basic electronics connected via smartphones to test out new ways for kids to connect with the world around them. The aims of the ‘Hack the City’ workshop are:
-●	To introduce to children that they can interact directly with the city around them. 
-●	To show that digital code is not separate from nature/urban spaces and that computing can be ‘city-friendly’, and can easily be about connecting with everyday space and things.
-●	At the end the children should have had their eyes opened to seeing the city and digital code as about potential for a whole range of interactions. 
++ To introduce to children that they can interact directly with the city around them. 
++ To show that digital code is not separate from nature/urban spaces and that computing can be ‘city-friendly’, and can easily be about connecting with everyday space and things.
++ At the end the children should have had their eyes opened to seeing the city and digital code as about potential for a whole range of interactions. 
 
 To achieve this we will have three elements of the smart city that can be simply hacked:
 1.	Talk to a tree
