@@ -1,3 +1,8 @@
+---
+title: Hack the City
+layout: default
+---
+
 # Hack the city!
 
 #### Katherine Willis
