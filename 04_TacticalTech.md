@@ -1,3 +1,8 @@
+---
+title: Tactical Tech
+layout: default
+---
+
 # Tactical Tech
 
 ![Image](Images/04_TacticalTech_Image2.jpg)
