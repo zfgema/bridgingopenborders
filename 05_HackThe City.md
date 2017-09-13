@@ -1,5 +1,7 @@
 # Hack the city!
 
+#### Katherine Willis
+
 ![Image](Images/05_Willis_Image1.jpg)
 
 **_The challenge of the Smart city…._**
