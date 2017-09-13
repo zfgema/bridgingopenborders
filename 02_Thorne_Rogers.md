@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Why is working on the Internet of Things so important? 
-### Michele Thorne and Jon Rogers
+#### Michele Thorne and Jon Rogers
 
 ![Image](Images/02_Thorne_Rogers_Image1.jpg)
 
