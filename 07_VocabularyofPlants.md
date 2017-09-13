@@ -8,7 +8,7 @@ layout: default
 
 ![Image](Images/07_VocabofPlants_Image1.jpg)
 
-_World Wilder Lab_
+_Image: World Wilder Lab_
 
 Once upon a time a lot of our actions – whether in cities or rural places - were governed by myths and beliefs where the power and mercy of natural forces could reward us or wiped us off the surface of the planet. We have feared and respected elements and felt very much interdependent and interconnected with it all. Now, especially in the so called “developed world” and its big cities, with the fast progress of scientific research and emergence of new technological advances we gained a lot of knowledge but lost most of those beliefs. And so perhaps one of the reasons why we are now facing problems of climate change and decreasing biodiversity is because of the lack of powerful narrative about us being an integral part of “nature”. 
 
@@ -24,19 +24,19 @@ For example in World Wilder Lab’ PlanEt project we aim to look at plants as a 
 
 ![Image](Images/07_VocabofPlants_Image5.jpg)
 
-_World Wilder Lab_
+_Image: World Wilder Lab_
 
 In another work –The “Human Sensor” I wanted to know whether I could learn something about my surroundings from the quality of my own breathing. I was curious what real time data coming from my own exhaled breath (that is from my inner environment of my own body – or as I call it “invironment”) could tell me about the air quality which inevitably we must inhale. The “Human Sensor” initiated my inquiry by taking an advantage of my existing illness. The exhaled breath from people who suffer from Asthma and COPD (chronic obstructive pulmonary disease) is marked by the presence of higher level eNO (exhaled Nitric Oxide), which then becomes a parameter dictating how the data will be manifested. Thus eNO distinguishes those we consider as suffering from COPD & Asthma as ‘Human Sensors’, capable of registering changes in the quality of air. In the “Human Sensor” I look at the frequency and density of chemical compounds and particulates in the air and the breath, transmitted and recorded using various sensory technologies embedded in a wearable. Then I translate and interpret that data to render the invisible fragments of the air and atmosphere to be manifested and intensified. That data from the normally unnoticed, quiet and very private action of breathing can be considered as set of signals informing me about my relation to that system. And so the “Human Sensor” becomes a narrative about the air quality written by ephemeral and intimate breathing, where data is a proof of a deep interconnection between “inner” and “outer” – and our own vulnerability.   
 
 ![Image](Images/07_VocabofPlants_Image4.jpg)
 
-_The Human Sensor_
+_Image: The Human Sensor_
 
 Lastly in Coral Love Story I wonder whether we can start caring about the species which not only that they live in totally different side of the planet, they also live in a very different habitat. The whole project very much depends on IoT concept and its application – distributed all over various scientific stations sensors which gather data about corals’ and reefs conditions. Corals itself are environmental sensors informing us about the quality of our oceans. Coral Love Story is a number of interventions enclosed, just like a regular book or story, in chapters. Through using data I want us to fall in love with these tiny creatures, empathise with them and start thinking outside our own “umwelt”, hopefully changing some of our harmful behaviors. Chapter #1 is a design fiction - a haptic wearable – a second skin – which by vibrations, and color changing patterns, informs the wearer and people around her, about the coral bleaching event happening right now in the Great Coral Reef. The vibration can cause pain and discomfort, the color disappear making this piece transparent. If we could wear something like that on everyday basis – would we feel more connected to other species of this planet? 
 
 ![Image](Images/07_VocabofPlants_Image2.jpg) ![Image](Images/07_VocabofPlants_Image3.jpg)
 
-_Coral Love Story_
+_Images: Coral Love Story_
 
 It is clear that this whole “data” concept opens up a lot of possibility. But it also has overwhelmed with us information (according to Erik Schmidt every two days we create as much information as we did from the dawn of civilisation up until 2003, approaching five exabytes), and in the mainstream domain it seems to be very narrowly human centered. The main rhetoric is about how it can help business to make money and how we can control our personal pieces of information. Obviously those are very important subjects, but isn’t this view of data very limiting? I hope that my peers and I are helping shift this conception and start revealing data’s poetry – rendering visible the invisible “mesh” – as defined by Tim Morton - which holds us (by ‘us’ I mean humans and all other living and non-living beings) all together; evoking empathy and partnership with nature; and enabling us to listen to new stories – not myths or tales – but real life stories – creating an opportunity for a fresh exchange with the living cosmos.
 
