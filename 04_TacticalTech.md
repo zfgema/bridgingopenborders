@@ -1,6 +1,6 @@
 # Tactical Tech
 
-![Image](Images/TacticalTech_Image2.jpg)
+![Image](Images/04_TacticalTech_Image2.jpg)
 
 _Image credit: TGRNYC Atmo Workshops, Nousha Salimi_
 
@@ -9,7 +9,7 @@ The Glass Room is a pop-up ‘tech store with a twist’ that disrupts how we co
 Instead, as you look closer at the ‘products’ on display, you find that they are playfully and provocatively selected to turn the technologies we all use, on their head. The artworks and design pieces on display, invite you to take a look behind the screens and into the hidden world of what happens to your data. To reconsider whether or not you have ‘something to hide’, to ‘open the (black) box’ and see how your individual data looks from the outside and to reconsider how well you know the technologies you use every day. Despite first appearances, the Glass Room provides a very different consumer experience, one that allows visitors to re-evaluate how we use technology and how much we reveal about ourselves when we use it. 
 
 
-![Image](Images/TacticalTech_Image1.jpg)
+![Image](Images/04_TacticalTech_Image1.jpg)
 
 _Image credit: Nousha Salimi_
 
@@ -19,10 +19,10 @@ In 2017, Tactical Tech, together with Mozilla developed a portable version of th
 The portable exhibition seeks to both expose and demystify how the largest data companies in the world operate and what their relationship is with the individuals they simultaneously serve and rely on. ‘The Data Detox Bar’ which sits beside this, offers a self-learning and exploratory environment. One where visitors can map and measure their own data footprints and find out what kinds of ‘digital selves’ they create when they produce data as they go about their daily lives. The exhibition explores the co-dependency between the companies and the users and how this is changing our societies and our selves. It reminds us how we, as individuals and societies, increasingly can not live without our apps, platforms and online services, and on the other hand, how the data companies can not exist without us as individuals continuously producing the data that they endlessly collect, store, analyse and learn from – creating new centres of knowledge, wealth and power.  
 
 
-![Image](Images/TacticalTech_Image3.jpg) 
+![Image](Images/04_TacticalTech_Image3.jpg) 
 _Image credit: Andrea Figari_
 
-![Image](Images/TacticalTech_Image4.JPG)
+![Image](Images/04_TacticalTech_Image4.JPG)
 _Image credit: Alistair Alexander_
 
 With the Glass Room and the Data Detox Kit, we want to introduce these issues to a wide audience, to make these questions and their answers accessible and even at times fun to explore. The project aims to foster a broader discussion on how data and technology is changing the personal, professional and social fabric of all our lives, creating an environment of reflection and a way of making informed choices in the future.
