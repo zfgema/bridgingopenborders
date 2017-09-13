@@ -1,4 +1,11 @@
+---
+title: #Additivism
+layout: default
+---
+
 # #Additivism: An interview with Morehshin Allahyari and Daniel Rourke
+
+#### Regine Debatty
 
 For its evangelists, 3D printing is going to breezily save the world one 3D printed kidney, wind turbine, honeycomb or insect snack at a time. The costs of domestic 3D printers are dwindling, the products custom-manufactured to meet our precise needs and the technology has been hailed as the most liberating and revolutionary since the steam engine.
 
