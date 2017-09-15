@@ -7,7 +7,7 @@ layout: default
 
 #### Samuel Fry
 
-![Image](15_CPA_Image1.jpg)
+![Image](Images/15_CPA_Image1.jpg)
 
 *Photographer: Sara Bianchetti*
 
@@ -31,8 +31,8 @@ As the world progresses from a technological standpoint, the arts need to progre
 
 This is happening already and it is happening in various places. My ask of you, is that you help share it.
 
-![Image](15_CPA_Image2.jpg)
-![Image](15_CPA_Image3.jpg)
+![Image](Images/15_CPA_Image2.jpg)
+![Image](Images/15_CPA_Image3.jpg)
 
 *Photographer: Sara Bianchetti*
 
