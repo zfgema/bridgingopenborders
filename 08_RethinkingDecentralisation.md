@@ -138,4 +138,37 @@ The group were interested in improving their situation, but rather than requesti
 ![Image](Images/08_RD_Image4.jpg) 
 ![Image](Images/08_RD_Image5.jpg) 
 
+I enjoy working with teenagers. They always want to push against whatever the current norm, not reinventing the wheel, but hacking and building on it to make it their own. It’s an exciting attitude to be around, particularly when we have the ability to prototype their ideas so quickly.
+
+![Image](Images/08_RD_Image6.jpg)
+
+Within a couple of days to prototype I worked with 3 teenagers to produce ATLIN; Anstruther Teenage Local Information Network. A local network housed within a red BT telephone box. You don’t need any mobile data coverage or credit to access ATLIN, you simply connect to the WIFI to access games, news, maps, timetables posted by teenagers of Anstruther. A simple wordpress site means it can either be open to anyone to post new content, or users may have to be invited or request access.
+
+
+![Image](Images/08_RD_Image7.jpg)
+
+We worked out how ATLIN would be powered (we decided on solar), built an enclosure together and embedded it in a local phone box. It was then loaded with content, including a downloadable zombie game modeled on the harbour ATLIN is based and Music and poems about Anstruther, designed to be experienced in that spot.
+
+![Image](Images/08_RD_Image8.jpg)
+
+Once tested, we discussed how this may be useful across the whole of the small town. What if ATLIN could be part of a mesh network? Although still not connected to the WWW, each module could share ATLIN content. Could the ATLIN hardware have inputs; sensors, buttons, cameras? What are the pros and cons of an approval process for content? What if ATLIN has intermittent WWW access, say if someone took ATLIN home once a week to download an update from their home broadband, would that change how it could be used?
+
+
+![Image](Images/08_RD_Image9.jpg)
+
+**Decentralising access to information through IoT**
+
+To explore some of these questions, we are looking to expand on this work by developing resources alongside small communities enabling them to build resilient and decentralised services that are meaningful for their community. We are focusing on building technology that brings people together in a place, rather than making it easier for people to stay home.
+An important part of this progress is providing simple educational resources so any changes or maintenance can be carried out by the community.
+
+**Lewis and Harris**
+
+With this in mind I visited the Lewis and Harris, a Scottish island in the Outer Hebrides.
+
+![Image](Images/08_RD_Image10.jpg)
+
+Lewis and Harris is one the least connected areas in the UK, in terms of phone and data coverage. My aim was to find some people to talk to about perhaps developing something like ATLIN. A local network where people could leave content to share with others.
+
+
+
 
