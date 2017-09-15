@@ -170,5 +170,75 @@ With this in mind I visited the Lewis and Harris, a Scottish island in the Outer
 Lewis and Harris is one the least connected areas in the UK, in terms of phone and data coverage. My aim was to find some people to talk to about perhaps developing something like ATLIN. A local network where people could leave content to share with others.
 
 
+![Image](Images/08_RD_Image11.jpg)
+_opensignal.com_
+
+Although we had a contact on the island, the lack of connectivity made it impossible to reach with them. We were also there during Storm Doris, the high winds were apparently making the already poor signal much worse. We were on our own.
+
+![Image](Images/08_RD_Image12.jpg)
+
+However, the upside of the weather and it being off season was every shopkeeper, Harris Tweed maker and whomever was taking shelter near us was more than happy to chat with us whilst waiting for a break in the rain.
+
+![Image](Images/08_RD_Image13.jpg)
+
+Each time I begun by explaining IoT, decentralisation and ATLIN. Every time I was directly or indirectly told that wouldn’t be of much interest here. Why would they travel to a phonebox or whatever to look up things on their phone when they could talk and exchange ideas when they met at various other occasions.
+
+I felt I’d made a fundamental mistake. This community is a small population on a small island, they are good at communicating without the internet - they have been doing it for a very long time. They didn’t feel like they were missing out on news from each other, but they wanted new information.
+
+Feeling disheartened and worried this might have been a wasted trip, at first I hadn’t noticed that every conversation found it’s way to my DIY techy campervan we were traveling in.
+
+![Image](Images/08_RD_Image14.jpg)
+
+We would talk about how the solar powered battery was monitored. How power hungry particular appliances were. How I kept track of water storage and use. I had a sensor monitoring temperature and humidity hooked up to the heater so it would regulate itself, whilst being aware of the status of the battery.
+
+Without realising we are discussing about how useful a decentralised network of sensors is in a [temporary] home. This happened again and again. This campervan was a perfect collection of prompts and examples. People began to imagine what useful things they could have in their home.
+
+This wasn’t the trip I expected, but it ended up being full of great conversations about decentralised DIY IoT.
+
+After some more reflection I realised having a tiny home on wheels was a great framework and physical prop to think about decentralisation - this is a home which is by definition off-grid. All those sensors that may feel irreverent or self indulgent in a ‘real’ house are really important in a rolling home. You need to keep track of your power usage and your water supply. If you run out of gas you wont have any heat or cooking facilities. You must monitor your resources, and any way to make that easier is really welcome.
+An additional benefit is obvious - it moves! We could visit all kinds of communities that don’t normally get included in the discussion about IoT.
+
+**#Vanlife and prototypes**
+
+The #Vanlife hashtag was not on my radar. Turns out there is a massive community of people traveling and living in DIY campervans.
+As a side project I built some tiny and cheap IoT modules that monitored temperature, humidity, battery voltage and GPS coordinates. The cheap WIFI chip acted as an access point (you could connect to it as a WIFI network).
+I’ve sent these out to various #Vanlifers and waiting to hear what we can do next.
+
+![Image](Images/08_RD_Image15.jpg)
+
+![Image](Images/08_RD_Image16.jpg)
+
+**Rethinking Decentralisation**
+
+I’ve started to think about decentralising access to information through IoT differently.Touring exhibitions is not a new idea. Neither is Library buses (or Bookmobiles), they have been touring rural areas in the UK since 1857!
+Extra conclusions / thoughts:
+
++ Good examples remain important.
++ Having physical props to discuss abstract ideas is useful.
++ No two communities are the same, one size doesn’t fit all and we have to be reminded of that every time we do anything. Presuming you know what people will want/need is a disaster waiting to happen.
+
+**Next Steps**
+
+I have reconsidered how I frame decentralisation and how I might be able to reach communities that don’t often get invited into conversations about how the internet and IoT may be beneficial for them.
+Part of this will be building a tiny IoT home on wheels. This will aid discussions with people about how IoT within their own home could benefit them, whilst promoting DIY IoT and perhaps bettering understanding of what IoT they are buying.
+But ideally I’d like people starting to make their own hardware, so the biggest part of my next steps is documenting the progress of my Tiny IoT home build, see more below.
+
+![Image](Images/08_RD_Image17.jpg)
+
+I have worked out how to replace my solar controller monitor with a little WIFI board so I am now able to extract my data and do whatever I please with it.
+
+![Image](Images/08_RD_Image18.jpg)
+
+![Image](Images/08_RD_Image19.jpg)
+
+I think I’ve also managed to make the first actually useful IoT Fridge. (IoT joke)
+
+![Image](Images/08_RD_Image20.jpg)
+
+![Image](Images/08_RD_Image21.jpg)
+
+
+
+
 
 
