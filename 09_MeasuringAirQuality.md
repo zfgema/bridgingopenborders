@@ -34,4 +34,37 @@ During the briefing session, students were asked to describe what they know abou
 
 When the students were asked about what causes air pollution, most of them replied exhaust from vehicles and smokes from factory chimney.
 
+*Challenge 2: Defining tasks for students*
+
+1. Defining the route
+
+The exploration walk is designed to enable students to use their hand gestures to record situated air quality through their wearable devices at 8 identified locations. Initially, the exploration walk was designed to allow students to record their subjective experience anywhere and anytime around the school. However Carol Doherty, assistant head of Marner Primary School, pointed out that by getting students to go outside the school premise, it increases the likelihood of exposure to air pollution. Hence we decided to use statistical modeling technique to identify 8 locations within 1km distance from Marner Primary School that is least polluted. The students were not given any information beforehand about the locations, this is to ensure that their subjective perception of air quality at the locations were unbiased.
+
+![Image](Images/09_MAQ_Image4.jpg)
+
+2. Measuring air quality through students’ subjective experience
+
+Students were taught the various hand gestures that relates to different air quality levels:
+
++ Gesture 1 = arm all the way up parallel to body = if you think the air is good
++	Gesture 2 = arm mid air perpendicular to body = if you think the air is ok, or if you have no opinion
++	Gesture 3 = pinch nose = if you think the air is bad
+
+![Image](Images/09_MAQ_Image3.jpg)
+![Image](Images/09_MAQ_Image6.jpg)
+
+During the walk, students were instructed to close their eyes, feel the air before recording with their hand gesture with eyes closed for less than 10 seconds. This helped to create perception isolation from peer influence among students so that they can provide a true response of the air quality instead of a biased one.
+
+3. Recording the environment
+
+During the exploration walk, students were also asked to record visual information they see in their environment that relates to their perceptual experience of the air at the 8 locations through the mobile phone given to them. This help us to better understand their recorded gesture data by looking at what affect their perception.
+
+![Image](Images/09_MAQ_Image7.jpg)
+
+Structuring participation with children can be challenging but it is also rewarding at the same time. We have received a lot of positive feedback from the students regarding the whole workshop experience. Some of them were very concerned with the quality of air surrounding their school given the level of pollution caused by cement and other factory trucks driving past the school everyday. They were also highly aware of the potential causes and effects of air pollution and were able to point to things in their environment that can contribute to air pollution. 
+
+For full report on WearAQ, refer to Umbrellium’s Blog (http://blog.umbrellium.co.uk/)
+
+
+
 
