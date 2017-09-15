@@ -1,6 +1,11 @@
+---
+title: Rethinking Decentralization
+layout: default
+---
+
 # Rethinking Decentralisation
 
-####Rachel Ryans
+#### Rachel Ryans
 
 In late 2016 was invited my Mozilla’s OpenIOT Studio to think about Decentralisation, particularly in rural environments.
 But first let’s start from the basics…
@@ -27,3 +32,32 @@ Sidenote: it can also help your technically skilled members of the team be remin
 
 **_How I develop a narrative within a workshop/discussion._**
 Have you watched the The Good Wife? Check out Decision Tree. The characters are trying to predict how their opponent (each other) will question/answer in court.
+
+![Image](Images/08_RD_Image1.jpg) 
+
+No-one is trying to trick the other into admitting something in our situation, but running what questions might be asked and how you answer them; a balance of giving enough information and context whilst staying on topic and within time constraints is an important skill in managing the narrative within a workshop.
+I also think a nice big mental bank of examples is really useful. Try and tailor your examples to the crowd you are talking to - Children and teenagers don’t care much about saving money on their central heating.
+So let’s give it a go with IoT. First to introduce what the Internet of Things is…
+
++ The Internet of things (IoT) is the inter-networking of physical devices … embedded with electronics, software, sensors, actuators, and network connectivity which enable these objects to collect and exchange data.
+Internet of things, https://en.wikipedia.org/w/index.php?title=Internet_of_things&oldid=781813467 (last visited May 23, 2017).
+Makes sense to me, but would be difficult to explain to my grandma. How about we start with…
+
+Me: IoT is made up of computers that talk to each other.
+Group: Why would they need to?
+M: They can exchange information. They can use that information to make better decisions in whatever they are doing. E.G. if my central heating knows I’m on holiday or late at the office, it can save energy by not turning on until I return.
+G: How does the computer know I’m on holiday or late?
+M: These computers generally have inputs and outputs.
+An input might be a sensor (it might be able to sense the temperature, or light levels, or pollution in the air) or an input might be information from the internet (like the weather forecast) or information on your phone (like your GPS coordinates).
+An output can be almost anything. It can control relays (which act as an on/off switch for any device - like a boiler or a fan or a smoke machine!). The output might be light (a display panel or an LED light) or sound (an annoying buzzer or a song).
+So in this example your phone uses it’s GPS sensor to collect your location data, then sends this information through your data plan to a computer in your home on the WIFI. That computer takes that information and runs some code that says “I expect Rachel to be home by 6, but her phone says she is in Hawaii, so I wont turn on my relay controlling the boiler until her phone tells me she is close by.”
+This is usually when participants feel confident enough to start to think about useful inputs and outputs for themselves.
+This is a very simple example, but I hope it goes some way in showing how we can start discussions about what IoT is with absolutely anyone.
+So, the tech savvy among you will notice I left out part of the data’s journey in the example above. Rather than my phone talking directly to the computer in my home, it actually talks to a central server in the cloud owned by a company that made my boiler’s relay***.
+
+
+
+
+
+
+
