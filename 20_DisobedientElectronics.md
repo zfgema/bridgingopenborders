@@ -1,5 +1,5 @@
 ---
-title: Disobedient Electronics: Protest
+title: Disobedient Electronics – Protest
 layout: default
 ---
 
