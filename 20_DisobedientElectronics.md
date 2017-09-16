@@ -1,7 +1,4 @@
----
-title: Disobedient Electronics: Protest
-layout: default
----
+
 
 # Disobedient Electronics: Protest
 
