@@ -1,9 +1,9 @@
 ---
-title: Ars Electronica Linz: The longing for new worlds knows no bounds.
+title: Ars Electronica Linz – The longing for new worlds knows no bounds.
 layout: default
 ---
 
-# Ars Electronica Linz: "The longing for new worlds knows no bounds."
+# Ars Electronica Linz – "The longing for new worlds knows no bounds."
 
 #### Manuela Naveau
 
