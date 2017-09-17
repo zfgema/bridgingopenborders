@@ -36,6 +36,7 @@ J
 Good to hear back from you, was wondering what happened to you. About your skeptical co-worker -- I don’t think there is any cure for that kind of complacency, some people never understand. At least I wouldn’t waste my energy explaining it to them over and over.
 
 Not that I need to clarify, but you must see it. Things have been different. The world has gone weird. Everywhere you look, from headlines to tweets and our ride-share convos, everything is weird now. Bizarre creatures have appeared, rewriting old morality into pitch perfect conspiracies. Our wasted hope has come crashing down on the horizon. Rational self-interest has given way to magical thinking — the last resort when fear takes hold. 
+
 --
 
 **Subject**: RE:RE: Superstition As a Last Resort.
