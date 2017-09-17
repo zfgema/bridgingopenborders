@@ -3,6 +3,8 @@ title: The Life and Death of Anatomy
 layout: default
 ---
 
+All rights reserved to the author of this contribution.
+
 # The Life and Death of Anatomy
 
 #### Nina Sellars
