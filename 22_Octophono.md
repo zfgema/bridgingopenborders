@@ -30,7 +30,7 @@ Other Optophono projects have stemmed from notated scores but have evolved in in
 
 The music industry has to catch up to the digital age. We don’t believe the answer to this lies in digital streaming or other means of delivering static recordings to passive audiences. Listeners today are musically sophisticated. An average listener has probably heard more music by the age of ten than the world’s most celebrated composers would have heard over the course of their lifetimes a century ago. Why don’t we tap into this vast musical intelligence?
 
-![Image](Images/22_Octophon_Image3.jpg)
+![Image](Images/22_Octophon_Imge3.jpg)
 
 _Scanner module from Pyramid Synth (2017) by Pasquale Tortaro. Image credit: Pasquale Tortaro._
 
