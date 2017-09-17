@@ -7,7 +7,11 @@ layout: default
 
 #### Nina Sellars
 
-![Image](Images/25_LifeDeathAnatomy_Image1.jpg)
+![Image](Images/25_LifeDeathAnatomy.jpg)
+
+_Nina Sellars working on adipose tissue culture, for 'Fat Culture' project, SymbioticA, UWA, 2017.
+Photographers: Nina Sellars & Ionat Zurr_
+
 
 **_Life_**
 
@@ -33,6 +37,9 @@ Further, the act of reclassifying fat as an organ raises questions about the way
 
 Indeed, the capacity of fat to go beyond – to test, trouble, and deeply complicate – the paradigms of anatomy, remains a relatively underappreciated quality of this organ.  
 
+**Nina Sellars** is an artist who works across the disciplines of Art, Science, and Humanities; her practice focuses on the way anatomy has shaped our understanding of the body, identity and subjectivity over the centuries. Sellars’ interest in anatomy has taken her from working in art studios and wet anatomy labs to working in physics labs and medical imaging facilities – here she critically engages with the cultural implications of anatomy. Currently, Sellars is Artist in Residence at SymbioticA, The University of Western Australia – for the research and development of tissue culture techniques for her arts project – Fat Culture – This project has been assisted by the Australian Government through the Australia Council, its arts funding and advisory body. http://www.ninasellars.com/cv/
+
+
 **References:**
 
 <hr>
@@ -41,6 +48,3 @@ Indeed, the capacity of fat to go beyond – to test, trouble, and deeply compli
 </li>
 <li id="fn2">Sahil K. Kapur and Adam J. Katz, “Multipotential Aspects of Adipose-Derived Stem Cells and Their Spheroids,” in Stem Cells in _Aesthetic Procedures: Art Science, and Critical Techniques_, ed. Franco Bassetto, Alberto Di Giuseppe and Melvin A. Shiffman (Berlin: Springer, 2014), 181.<a href="#fnref1">↩</a>
 </li>
-
-
-**Nina Sellars** is an artist who works across the disciplines of Art, Science, and Humanities; her practice focuses on the way anatomy has shaped our understanding of the body, identity and subjectivity over the centuries. Sellars’ interest in anatomy has taken her from working in art studios and wet anatomy labs to working in physics labs and medical imaging facilities – here she critically engages with the cultural implications of anatomy. Currently, Sellars is Artist in Residence at SymbioticA, The University of Western Australia – for the research and development of tissue culture techniques for her arts project – Fat Culture – This project has been assisted by the Australian Government through the Australia Council, its arts funding and advisory body. http://www.ninasellars.com/cv/
