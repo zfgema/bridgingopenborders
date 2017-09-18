@@ -3,6 +3,8 @@ title: The weird + eerie
 layout: default
 ---
 
+All Rights are Reserved to the author of this contribution.
+
 # The weird + eerie:
 
 ### an interview with Lawrence Lek on crossing the line + exposing the deeply embedded through VR
