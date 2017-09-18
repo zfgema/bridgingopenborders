@@ -3,6 +3,10 @@ title: Measuing Air Quality Through Our Subjective Experience
 layout: default
 ---
 
+This chapter is released under Creative Commons attribution-noncommercial-sharealike 4.0 international license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
 # Measuring Air Quality Through Our Subjective Experience 
 
 #### Ling Tan
