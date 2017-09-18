@@ -1,4 +1,7 @@
-
+---
+title: Copyright, Culture, and Creativity
+layout: default
+---
 
 This was originally published at Imperica: https://protect-eu.mimecast.com/s/KnEnBIqxl7iR
 
