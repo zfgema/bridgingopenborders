@@ -1,5 +1,5 @@
 ---
-title: #Additivism
+title: '#Additivism'
 layout: default
 ---
 
