@@ -10,7 +10,7 @@ layout: default
 
 ![Image](Images/28_ARR_Image1.jpg)
 
-*Studio Ini and Photographer Luke Walker *
+*Studio Ini and Photographer Luke Walker*
 
 In Studio Ini our augmented reality is a material one; An augmented materiality that wants to address our need for transformation in our physical designed environment....
 
