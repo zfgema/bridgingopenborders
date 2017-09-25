@@ -113,5 +113,5 @@ We would like to leave you with a few questions we here at Studio Ini are curren
 <hr>
 <ol>
 <li id="fn1">Nassia (founder of Studio Ini) worked on exploring this capability for a year as part of the Mediated Matter Group Glass II, Mediated Matter Group, http://matter.media.mit.edu/environments <a href="#fnref1">↩</a></li>
-<li id="fn2”>Octobot, Lewis Lab & Wyss Institute, https://wyss.harvard.edu/the-first-autonomous-entirely- soft-robot/ <a href="#fnref2”>↩</a></li>
+<li id="fn2">Octobot, Lewis Lab & Wyss Institute, https://wyss.harvard.edu/the-first-autonomous-entirely- soft-robot/ <a href="#fnref2">↩</a></li>
 </ol>
