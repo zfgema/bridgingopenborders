@@ -5,7 +5,7 @@ layout: default
 
 # Endangered languages go digital: a matter of urgency
 
-#### Gemma Zamora & Mandana Seyfeddinipur
+#### Gema Zamora & Mandana Seyfeddinipur
 
 ![Image](Images/12_EndangeredLanguages_Image1.jpg) 
 
